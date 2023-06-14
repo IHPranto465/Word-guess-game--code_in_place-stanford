@@ -88,7 +88,8 @@ if __name__ == "__main__":
     main()
 ```
 
-
+[](url)
+![word guessing game](https://github.com/IHPranto465/Word-guess-game--code_in_place-stanford/assets/64597455/9b61f988-6778-480b-b66e-e1c482fb82cc)
 
 
 
